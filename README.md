@@ -1,4 +1,4 @@
-# Metodolog-as-de-Desarrollo-de-Software
+# Metodologias-de-Desarrollo-de-Software
 RUP (Rational Unified Process) es un enfoque estructurado para desarrollar software de manera organizada. Se basa en la idea de dividir el trabajo en pasos pequeños y repetirlos hasta que el software esté completo. También se centra en entender lo que los usuarios necesitan y en construir el software en función de esas necesidades. RUP ayuda a los equipos a trabajar juntos de manera efectiva y a gestionar los proyectos de desarrollo de software de manera eficiente.
 
 Scrum es un enfoque para trabajar en equipo en proyectos, especialmente en el desarrollo de software. En lugar de planificar todo al principio y seguir un plan fijo, Scrum se basa en ciclos de trabajo cortos llamados "sprints". Durante cada sprint, el equipo se enfoca en un conjunto específico de tareas y luego se reúne para evaluar lo que se logró y planificar el siguiente sprint. Esto permite adaptarse a los cambios más fácilmente y crear software de alta calidad de manera más rápida. En resumen, Scrum es como un juego de equipo donde se avanza paso a paso y se ajusta en el camino para lograr el objetivo final.
